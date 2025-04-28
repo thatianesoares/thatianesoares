@@ -2,7 +2,7 @@
 
 **`Full Stack Development Student`**
 
-Me chamo Thatiane Soares, tenho 29 anos e sou do Rio de Janeiro. Atualmente, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas. Também estou estudando Java e Phython através de cursos. Sou apaixonada por tecnologia e estou sempre estudando para aprender coisas novas. Meu linkedin é **"[Thatiane Soares]** (https://www.linkedin.com/in/thatiane-soares-1a9995259/)"
+Me chamo Thatiane Soares, tenho 29 anos e sou do Rio de Janeiro. Atualmente, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas. Também estou estudando Java e Phython através de cursos. Sou apaixonada por tecnologia e estou sempre estudando para aprender coisas novas. Meu linkedin é "[Thatiane Soares](https://www.linkedin.com/in/thatiane-soares-1a9995259/)"
 
 <br/>
 <br/>
